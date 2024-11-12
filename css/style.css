@@ -1,3 +1,7 @@
-.red{
-    color:red;
+html, body {
+    background-color: violet;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
 }
